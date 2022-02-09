@@ -1,0 +1,36 @@
+captcha_code,batch_code,consent,age,gender,rank_R5_premise,rank_R5_conclusion_1,rank_R5_conclusion_2,rank_R6_premise,rank_R6_conclusion,rank_R7_premise,rank_R7_conclusion,rank_R8_premise,rank_R8_conclusion_1,rank_R8_conclusion_2,mturk_ID_consent,feedback,inclusion_criteria_age,inclusion_criteria_location,inclusion_criteria_language,year,month,day,hour,minute,second
+Option 2,B2,Yes,25,Male,4,10,5,9,10,10,10,9,10,6,Yes,NA,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,21,14,40,46
+Option 2,B1,Yes,29,Male,3,9,4,10,10,10,9,8,5,5,Yes,NA,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,9,12,45,26
+Option 2,B2,Yes,31,Male,1,8,7,10,10,10,8,4,3,3,Yes,NA,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,22,17,30,39
+Option 2,B1,Yes,43,Male,4,9,3,10,10,9,9,7,8,8,Yes,none,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,13,15,35,45
+Option 2,B1,Yes,62,Male,10,8,10,10,6,10,2,10,2,2,Yes,NA,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,9,14,16,35
+Option 2,B1,Yes,29,Male,5,3,6,8,8,9,5,6,4,3,Yes,NA,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,13,14,37,18
+Option 2,B1,Yes,45,Female,8,7,1,10,10,9,9,10,3,1,Yes,None,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,13,14,29,11
+Option 2,B1,Yes,30,Male,3,4,5,9,2,7,7,4,5,7,Yes,NA,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,13,14,54,1
+Option 2,B1,Yes,62,Female,7,8,7,9,9,8,9,7,8,9,Yes,None,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,13,15,41,40
+Option 2,B2,Yes,60,Male,1,10,1,10,10,10,10,9,8,8,Yes,Submitted with Worker ID,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,21,14,28,25
+Option 2,B1,Yes,42,Male,7,5,8,7,8,10,8,3,8,5,Yes,NA,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,9,14,16,51
+Option 2,B1,Yes,33,Male,5,9,3,10,10,10,8,9,10,9,Yes,This survey was very well done and was quite interesting.,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,8,18,4,58
+Option 2,B1,Yes,32,Male,8,4,7,10,10,10,10,10,10,10,Yes,It's far better than average hit,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,9,13,33,50
+Option 2,B1,Yes,42,Male,3,8,7,10,10,10,8,7,3,3,Yes,"It's been interesting and enjoyable, thank you!",I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,8,18,41,13
+Option 2,B1,Yes,64,Female,2,9,2,8,8,9,9,6,8,8,Yes,no problems,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,13,19,8,33
+Option 2,B1,Yes,22,Female,2,9,2,4,4,6,8,8,5,4,Yes,no,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,8,21,52,13
+Option 2,B1,Yes,44,Male,1,10,7,10,9,10,10,9,8,9,Yes,I really enjoyed the hit. It really made you think of different possibilities about a situation.,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,9,5,41,50
+Option 2,B1,Yes,38,Male,9,9,5,10,10,10,10,9,7,7,Yes,NA,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,16,15,19,28
+Option 2,B1,Yes,60,Female,4,6,3,10,10,9,9,8,7,8,Yes,These were a bit confusing to me?,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,10,15,57,17
+Option 2,B1,Yes,41,Male,10,9,5,6,6,10,10,10,10,10,Yes,NA,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,9,9,57,14
+Option 2,B1,Yes,30,Female,1,8,4,10,10,10,9,10,9,10,Yes,NA,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,8,18,33,40
+Option 2,B2,Yes,37,Male,2,2,2,6,6,9,9,7,7,2,Yes,None that I can think of,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,21,14,22,25
+Option 2,B1,Yes,51,Male,3,8,2,7,8,10,10,3,4,2,Yes,NA,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,9,19,29,4
+Option 2,B1,Yes,30,Male,7,6,5,9,9,10,10,9,7,7,Yes,NA,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,13,14,15,6
+Option 2,B1,Yes,38,Female,4,7,4,9,7,10,9,8,7,6,Yes,no,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,8,15,12,1
+Option 2,B1,Yes,41,Male,7,9,1,10,10,10,10,5,10,4,Yes,thank you!,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,8,18,50,9
+Option 2,B2,Yes,62,Male,4,8,3,5,5,8,10,8,9,5,Yes,NA,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,21,15,34,54
+Option 2,B2,Yes,57,Male,3,9,2,6,6,9,9,8,3,3,Yes,Thank you!,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,21,14,34,10
+Option 2,B1,Yes,39,Male,2,10,2,10,10,10,10,10,9,10,Yes,NA,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,16,15,11,42
+Option 2,B2,Yes,31,Female,8,3,7,10,9,6,4,7,3,3,Yes,"I'm not sure how well I did, but it was interesting. Haven't done any HIT like this before (other than part 1 obviously). Thanks!",I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,21,14,40,42
+Option 2,B1,Yes,66,Female,8,6,5,10,10,7,9,9,6,6,Yes,None at this time.,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,16,14,52,10
+Option 2,B1,Yes,36,Female,9,6,9,6,8,8,5,7,9,9,Yes,ALL ARE GOOD,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,10,6,37,35
+Option 2,B1,Yes,74,Female,8,10,3,10,10,10,10,10,3,4,Yes,"none, thank you",I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,9,1,37,30
+Option 2,B1,Yes,33,Female,2,8,2,10,10,10,10,9,7,7,Yes,no,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,13,14,51,41
+Option 2,B2,Yes,31,Female,2,10,3,10,10,10,10,8,9,10,Yes,NA,I am 18 or older,I am currently residing in the United States of America (USA),I am fluent in English,2021,4,26,21,6,0
